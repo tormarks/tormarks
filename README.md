@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Tormarks is the collection of onion URLs found in clearnet and Tor network to import in separate folder (tormarks) in your Tor Browser.
+
+This simplifies usage and is much faster than searching for onions in clearnet or in Tor network.
+
+Just import and try.
+
+All URLs are for educational purposes only.
+
+
 <!--
 **tormarks/tormarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
