@@ -18,7 +18,7 @@ Just import and try.
 
 # Benefits
 
-1. Download, import and use in 15 seconds! Your existing personal bookmarks not affected!
+1. Download, import and use in 1 minute! Your existing personal bookmarks not affected!
 2. The main reason to import bookmarks is time. Never wait for this or that directory to load, and never wait for it to load a category or search query. You don’t need to craft your collection – we did it for you. Just instantly open the needed link. Own your links!
 3. ⚡️ Lightning-fast (because it operates on your computer, eliminating the need to load the directory listing through the high-latency Tor network).
 4. The one and only go-to site now is tormarks.com – your Tor journey starts here!
