@@ -35,6 +35,17 @@ Just import and try.
 
 We try our best to find and add new bookmarks to our collection daily, so do not forget to update your tormarks.
 
+# Onion address
+
+tormarksq5pj5sbdxilm24xpjupsn6t5ntz2gsiiy4xufukna5eno7id.onion
+
+# Our links
+
+1. Website: [tormarks.com](tormarks.com)
+2. Telegram: [tormarks](https://t.me/tormarks)
+3. YouTube: [tormarks](https://www.youtube.com/@tormarks)
+4. GitHub: [tormarks](https://github.com/tormarks/tormarks/)
+
 # Disclaimer
 
 All information is strictly for educational purposes. We do not endorse any illegal activities. Always comply with local laws. For a more detailed disclaimer, visit [disclaimer](tormarks.com/disclaimer).
@@ -44,5 +55,3 @@ By downloading and importing this file you agree with [disclaimer](tormarks.com/
 Please visit [tormarks.com](https://tormarks.com) for more info.
 
 Subscribe to our Telegram channel, we will post tormarks.html there also: [tormarks](https://t.me/tormarks)
-
-Our onion address: tormarksq5pj5sbdxilm24xpjupsn6t5ntz2gsiiy4xufukna5eno7id.onion
