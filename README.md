@@ -6,7 +6,13 @@ This simplifies usage and is much faster than searching for onions in clearnet o
 
 Just import and try.
 
+(Quick Start video)[https://www.youtube.com/watch?v=imlM2kv6Lew]
+
 All URLs are for educational purposes only.
+
+By downloading and importing this file you agree with tormarks.com/disclaimer.
+
+Please visit tormarks.com for more info.
 
 
 <!--
