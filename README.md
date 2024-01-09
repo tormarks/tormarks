@@ -43,8 +43,9 @@ tormarksq5pj5sbdxilm24xpjupsn6t5ntz2gsiiy4xufukna5eno7id.onion
 
 1. Website: [tormarks.com](tormarks.com)
 2. Telegram: [tormarks](https://t.me/tormarks)
-3. YouTube: [tormarks](https://www.youtube.com/@tormarks)
-4. GitHub: [tormarks](https://github.com/tormarks/tormarks/)
+3. Jabber: tormarks@jabb.im
+4. YouTube: [tormarks](https://www.youtube.com/@tormarks)
+5. GitHub: [tormarks](https://github.com/tormarks/tormarks/)
 
 # Disclaimer
 
