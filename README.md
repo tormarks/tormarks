@@ -1,6 +1,6 @@
 # What is tormarks
 
-tormarks — is the collection of onion URLs found in clearnet and Tor network that can be imported in separate folder (tormarks) in your Tor Browser Bookmarks.
+**tormarks** — is the collection of onion URLs found in clearnet and Tor network that can be imported in separate folder (tormarks) in your Tor Browser Bookmarks.
 
 This simplifies usage and is much faster than searching for onions in clearnet or in Tor network.
 
@@ -45,6 +45,9 @@ tormarksq5pj5sbdxilm24xpjupsn6t5ntz2gsiiy4xufukna5eno7id.onion
 2. Telegram: [tormarks](https://t.me/tormarks)
 3. YouTube: [tormarks](https://www.youtube.com/@tormarks)
 4. GitHub: [tormarks](https://github.com/tormarks/tormarks/)
+5. Tor Onion: tormarksq5pj5sbdxilm24xpjupsn6t5ntz2gsiiy4xufukna5eno7id.onion
+6. XMPP (Jabber): tormarks@jabb.im
+7. Email: tormarks@tuta.io
 
 # Disclaimer
 
